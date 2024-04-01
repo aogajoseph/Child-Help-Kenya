@@ -992,7 +992,6 @@ blockquote footer:before,
 
 .social-icons a {
     font-size: 20px;
-    color: #4d4641;
     line-height: normal;
     vertical-align: middle;
     line-height: 20px;
@@ -1003,6 +1002,54 @@ blockquote footer:before,
     transition: color .3s ease-in-out;
 }
 
+.fa-facebook {
+    color: #1877F2;
+}
+
+.fa-facebook:hover {
+    color: grey;
+}
+
+.fa-whatsapp {
+    color: #25D366;
+}
+
+.fa-whatsapp:hover {
+    color: grey;
+}
+
+.fa-x-twitter {
+    color: #000000;
+}
+
+.fa-x-twitter:hover {
+    color: grey;
+}
+
+.fa-instagram {
+    color: #cd486b;
+}
+
+.fa-instagram:hover {
+    color: grey;
+}
+
+.fa-linkedin {
+    color: #0077b5;
+}
+
+.fa-linkedin:hover {
+    color: grey;
+}
+
+.fa-youtube {
+    color: #CD201F;
+}
+
+.fa-youtube:hover {
+    color: grey;
+}
+
 .social-icons .google-plus {
     font-size: 33px;
     font-family: 'socialico_plusregular';
@@ -1010,7 +1057,7 @@ blockquote footer:before,
 
 .social-icons a:hover,
 .social-icons a:focus {
-    color: #fff;
+    color: #a19191b6;
 }
 
 .navbar-collapse {
