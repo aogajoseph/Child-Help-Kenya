@@ -114,7 +114,7 @@ a:active {
 
 img {
     max-width: 100%;
-    height: 4.5rem;
+    height: 3.5rem;
 }
 
 ul,
@@ -938,7 +938,7 @@ blockquote footer:before,
  ----------------------------------------*/
 
 #header {
-    background: #fff;
+    background: azure;
     position: relative;
     z-index: 99;
 }
