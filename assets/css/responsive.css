@@ -1499,10 +1499,13 @@
     .main-slider .banner-slider p {
         line-height: 1.2;
         font-size: 14px;
-        padding-top: 67px;
+        padding-top: 75px;
     }
     .tp-caption .btn.btn.btn-default {
         margin-top: 120px;
+    }
+    .learn-more-btn {
+        margin-left: 180px;
     }
     h2 strong {
         display: inline-block;

@@ -85,6 +85,13 @@ fieldset[disabled] .btn-danger {
     border-color: #4d4641;
 }
 
+.slide3-btn {
+    color: #fff;
+    background: none;
+    filter: none;
+    border-color: #ffffff;
+}
+
 .btn-default:hover,
 .btn-default:focus {
     background: #4d4641;

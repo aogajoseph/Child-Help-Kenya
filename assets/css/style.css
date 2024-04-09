@@ -76,7 +76,8 @@
 }
 
 .banner-slider p {
-    line-height: 1.8;
+    line-height: 1.2;
+    padding-top: 20px;
 }
 
 .tp-caption .btn.btn-default {
@@ -106,6 +107,10 @@
 .banner-heading {
     width: 385px;
     white-space: normal !important;
+}
+
+.subtitle {
+    font-weight: 600;
 }
 
 .slider-third .banner-heading {
