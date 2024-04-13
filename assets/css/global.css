@@ -938,7 +938,7 @@ blockquote footer:before,
  ----------------------------------------*/
 
 #header {
-    background: azure;
+    background-image: linear-gradient(120deg, #fff 0%, rgba(0, 247, 255, 0.568) 100%);   
     position: relative;
     z-index: 99;
 }

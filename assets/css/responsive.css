@@ -255,12 +255,15 @@
         width: 300px;
     }
     .banner-slider p {
-        margin-top: 8px;
+        margin-top: 0px;
     }
     .banner-slider p,
     .main-slider .banner-slider p {
         line-height: 1.2;
         font-size: 14px;
+    }
+    .banner-slider /.banner-summary .slide-1-p {
+        background-color: red;
     }
     .header-third .nav-content:before {
         margin-right: 0;
@@ -581,6 +584,9 @@
         font-size: 100% !important;
         text-decoration: none;
         padding: 0 10px !important;
+    }
+    .banner-slider .slide-2 .tp-caption a.btn-link:hover {
+        color: #ffffff !important;
     }
     .banner-slider .slide-2 .tp-caption .btn.btn-warning {
         color: #fff !important;
@@ -1476,7 +1482,6 @@
         width: 90%;
     }
 }
-
 @media (max-width: 600px) {
     #wrapper {
         overflow: hidden;
@@ -1497,9 +1502,9 @@
     }
     .banner-slider p,
     .main-slider .banner-slider p {
-        line-height: 1.2;
+        line-height: 1;
         font-size: 14px;
-        padding-top: 75px;
+        padding-top: 80px;
     }
     .tp-caption .btn.btn.btn-default {
         margin-top: 120px;
@@ -1555,8 +1560,9 @@
     }
     .banner-section .btn-link {
         font-size: 14px;
-        margin-left: 10px;
+        position: absolute;
         margin-top: 100px;
+        margin-left: 20px;
     }
     .launch .content {
         margin-top: 24px;
@@ -1611,7 +1617,8 @@
     }
     .slide-1 .btn.btn-default,
     .slide-3 .btn.btn-default {
-        margin-top: 40px !important;
+        margin-top: 45px !important;
+
     }
 }
 
