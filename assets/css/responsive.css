@@ -262,8 +262,16 @@
         line-height: 1.2;
         font-size: 14px;
     }
-    .banner-slider /.banner-summary .slide-1-p {
-        background-color: red;
+    .banner-slider p span {
+        line-height: 1.2;
+        font-size: 14px;
+        position: absolute;
+        margin-top: -35px;
+    }
+    .main-slider .banner-slider p {
+        line-height: 1.2;
+        font-size: 14px;
+        color: red;
     }
     .header-third .nav-content:before {
         margin-right: 0;
@@ -1619,6 +1627,13 @@
     .slide-3 .btn.btn-default {
         margin-top: 45px !important;
 
+    }
+    .slide-1 .btn.btn-default.slide-1-donate-btn {
+        margin-top: 20px !important;
+    }
+    .slide-1 .btn.btn-default.slide-1-more-btn {
+        margin-top: 20px !important;
+        margin-left: 180px !important;
     }
 }
 
