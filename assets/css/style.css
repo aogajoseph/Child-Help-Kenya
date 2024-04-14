@@ -83,6 +83,7 @@
 .tp-caption .btn.btn-default {
     font-size: 14px;
     padding: 12px 31px;
+    font-weight: 600;
 }
 
 .banner-section.btn-link:hover {
