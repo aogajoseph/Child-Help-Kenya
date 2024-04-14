@@ -56,8 +56,16 @@ h6,
 .h4,
 .h5,
 .h6 {
-    color: #26211d;
+    color: #000;
     font-weight: 400;
+}
+
+.light-text h2 {
+    color: #fff;
+}
+
+.light-text p {
+    color: #fff;
 }
 
 h1,
@@ -98,7 +106,7 @@ h6,
 
 p {
     font-size: 14px;
-    color: #727272;
+    color: #000000;
     line-height: 1.5;
 }
 
@@ -966,6 +974,7 @@ blockquote footer:before,
     float: right;
     margin-left: 2%;
     color: #000;
+    border-color: #000;
     font-size: 11px;
 }
 

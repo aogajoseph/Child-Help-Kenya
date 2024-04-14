@@ -1517,8 +1517,16 @@
     .tp-caption .btn.btn.btn-default {
         margin-top: 120px;
     }
-    .learn-more-btn {
-        margin-left: 180px;
+    .slide-1 .btn.btn-default.slide-1-more-btn {
+        margin-top: 120px !important;
+    }
+    .slide-1 .btn.btn-default.slide-1-donate-btn {
+        margin-top: 120px !important;
+        margin-left: 180px !important;
+    }
+    .slide-1 .btn.btn-default,
+    .slide-3 .btn.btn-default {
+        margin-top: 140px !important;
     }
     h2 strong {
         display: inline-block;
@@ -1628,10 +1636,10 @@
         margin-top: 45px !important;
 
     }
-    .slide-1 .btn.btn-default.slide-1-donate-btn {
+    .slide-1 .btn.btn-default.slide-1-more-btn {
         margin-top: 20px !important;
     }
-    .slide-1 .btn.btn-default.slide-1-more-btn {
+    .slide-1 .btn.btn-default.slide-1-donate-btn {
         margin-top: 20px !important;
         margin-left: 180px !important;
     }

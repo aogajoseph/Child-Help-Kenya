@@ -82,14 +82,21 @@ fieldset[disabled] .btn-danger {
 .btn-default {
     background: none;
     filter: none;
-    border-color: #4d4641;
+    border-color: #000;
 }
 
-.slide3-btn {
-    color: #fff;
+.btn-default.slide-3-blog-btn {
     background: none;
     filter: none;
     border-color: #ffffff;
+    color: #fff;
+}
+
+.btn-default.slide-1-donate-btn, .btn-default.slide-1-more-btn {
+    background: none;
+    filter: none;
+    border-color: #ffffff;
+    color: #fff;
 }
 
 .btn-default:hover,
