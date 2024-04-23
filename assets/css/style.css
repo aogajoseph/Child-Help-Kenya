@@ -398,13 +398,15 @@
 
 .parallax-section {
     min-height: 434px;
-    background: url("/assets/img/volunteer.jpg") no-repeat;
+    background: url("/assets/img/volunteer.png") no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 .parallax-section .btn {
     padding: 10px 38px;
+    color: #fff;
+    border-color: #fff;
 }
 
 .parallax-section h2 {
