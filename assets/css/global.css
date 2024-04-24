@@ -1508,8 +1508,8 @@ a.brand img {
 
 #footer {
     padding: 86px 0 0;
-    background: #32302f;
-    color: #8f8b89;
+    background: linear-gradient(120deg, #fff 0%, rgba(0, 176, 182, 0.568) 100%);
+    color: #000000;
 }
 
 #footer ul {
@@ -1517,7 +1517,7 @@ a.brand img {
 }
 
 #footer a[href^="mailto"] {
-    color: #8f8b89;
+    color: #4b4745;
 }
 
 .footer-logo {
@@ -1533,7 +1533,7 @@ a.brand img {
     line-height: 1.7;
     margin-bottom: 30px;
     font-size: 14px;
-    color: #8f8b89;
+    color: #181616;
 }
 
 #footer address {
@@ -1541,7 +1541,7 @@ a.brand img {
 }
 
 #footer address span span a {
-    color: #8f8b89;
+    color: #181716;
 }
 
 #footer address>span {
@@ -1561,7 +1561,7 @@ a.brand img {
 }
 
 #footer .twitter-update a {
-    color: #8f8b89;
+    color: #0c0c0b;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -1580,7 +1580,7 @@ a.brand img {
 
 #footer h6 {
     font-weight: 700;
-    color: #fff;
+    color: #0300b6;
     margin: 5px 0 35px;
 }
 
@@ -1605,15 +1605,17 @@ a.brand img {
 
 .sign-up .form-control {
     background: none;
-    border: 2px solid #595756;
+    border: 1.8px solid #9c9a99;
     border-right: 0;
     height: 45px;
-    font-size: 14px;
-    color: #595756;
+    font-size: 16px;
+    color: #000000;
 }
 
-.sign-up .form-control::-moz-placeholder {
+.sign-up .form-control::placeholder {
     color: #595756;
+    font-size: 14px;
+    font-style: italic;
     font-weight: 400;
 }
 
@@ -1712,16 +1714,22 @@ a.brand img {
     display: none;
 }
 
-#footer .footer-logo a {
-    font-size: 28px;
-    display: inline-block;
-    font-family: 'Playfair Display', serif;
-    font-style: italic;
+.footer-logo img {
+    height: 16rem;
 }
 
 .footer-nav ul {
     margin: 0;
     padding: 0;
+}
+
+#footer ol {
+    margin-top: -20px;
+    list-style-type: disc;
+}
+
+#footer li {
+    color: #5f5757;
 }
 
 .second-footer .copyright {

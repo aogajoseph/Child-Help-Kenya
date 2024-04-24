@@ -15,7 +15,6 @@ h6,
 }
 
 .sign-up .btn-theme,
-#footer .charity,
 .list-unstyled li:before,
 .video-section h2,
 .video-section .play-btn,
@@ -27,6 +26,15 @@ h6,
 .contact-address a[href^="mailto:"],
 .slider-third .tp-caption .btn.btn-default {
     color: #ecc731;
+}
+
+#footer .contact-us {
+    color: rgb(27, 0, 145);
+    font-weight: 600;
+}
+
+#footer .contact-us:hover {
+    color: rgb(126, 126, 126);
 }
 
 .navbar-default,
@@ -75,7 +83,9 @@ textarea:focus,
 .navbar-default .navbar-form,
 .sign-up .btn-theme,
 .main-slider .btn {
-    border-color: #c4a62d;
+    border-color: #63605f;
+    color: #63605f;
+    font-weight: 800;
 }
 
 blockquote {
