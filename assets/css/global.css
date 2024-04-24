@@ -1605,7 +1605,7 @@ a.brand img {
 
 .sign-up .form-control {
     background: none;
-    border: 1.8px solid #9c9a99;
+    border: 2px solid #9c9a99;
     border-right: 0;
     height: 45px;
     font-size: 16px;
@@ -1715,7 +1715,7 @@ a.brand img {
 }
 
 .footer-logo img {
-    height: 16rem;
+    height: 12rem;
 }
 
 .footer-nav ul {
