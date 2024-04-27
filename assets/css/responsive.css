@@ -283,8 +283,16 @@
     .slider-third .tp-caption .btn.btn-default {
         margin-top: -22px;
     }
-    .tp-caption .btn.btn-default {
-        margin-top: 22px;
+    .tp-caption .btn.btn-default.slide-1-more-btn {
+        margin-top: 42px;
+    }
+    .tp-caption .btn.btn-default.slide-1-donate-btn {
+        margin-top: 42px;
+        margin-left: 180px;
+    }
+    .tp-caption .btn.btn-default.slide-3-blog-btn {
+        margin-top: 32px;
+        color: red;  
     }
     .banner-title {
         margin-top: -10px;
@@ -1573,6 +1581,18 @@
         margin-top: 55px;
         width: 300px;
         height: 118px;
+    }
+    .trans-grey2 {
+        margin-top: 28px;
+        margin-left: -5px;
+        width: 380px;
+        height: 230px;
+    }
+    .trans-grey3 {
+        margin-top: 28px;
+        margin-left: -5px;
+        width: 320px;
+        height: 230px;
     }
     .banner-section .btn-link {
         font-size: 14px;
