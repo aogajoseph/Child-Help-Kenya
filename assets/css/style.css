@@ -2410,6 +2410,11 @@ aside ul.archives li span {
     margin: 32px 0 49px;
 }
 
+.help-us img {
+    height: 100%;
+    width: 100%;
+}
+
 /*.process-section {
  padding-bottom:196px;
  }*/
