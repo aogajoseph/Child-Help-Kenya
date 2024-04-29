@@ -2845,9 +2845,9 @@ aside ul.archives li span {
 }
 
 .forms-notes {
-    color: #eb3039;
+    color: #1adb00;
     font-size: 17px;
-    font-weight: 300;
+    font-weight: 700;
 }
 
 .modal-dialog textarea {
@@ -2889,6 +2889,22 @@ aside ul.archives li span {
 
 .form-group .dropdown-menu {
     width: 100%;
+}
+
+.spacer50 {
+    margin-top: 50px;
+}
+
+.location-and-upload {
+    display: inline-block;
+}
+
+.location-and-upload p, label {
+    text-align: left;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #6b6864;
 }
 
 /*

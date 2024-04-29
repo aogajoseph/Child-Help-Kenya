@@ -765,7 +765,7 @@ blockquote footer:before,
  3.12)Breadcrumb Banner Section 
  ----------------------------------------*/
 
-.breadcrumb-section {
+.volunteer-breadcrumb-section {
     background: url("/assets/img/volunteer2.png") center 37.3% no-repeat;
     background-size: cover;
     padding: 31px 0 42px;
@@ -774,7 +774,9 @@ blockquote footer:before,
 
 .breadcrumb-section h1 {
     font-weight: 700;
+    margin-top: 20px;
     margin-bottom: 0;
+    text-align: center;
 }
 
 .breadcrumb {
