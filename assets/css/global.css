@@ -772,6 +772,13 @@ blockquote footer:before,
     /*	margin-bottom: 59px;*/
 }
 
+.about-us-breadcrumb-section {
+    background: url("/assets/img/about-us.png") center 37.3% no-repeat;
+    background-size: cover;
+    padding: 31px 0 42px;
+    /*	margin-bottom: 59px;*/
+}
+
 .breadcrumb-section h1 {
     font-weight: 700;
     margin-top: 20px;
