@@ -1902,6 +1902,16 @@ main-slider .tp-caption .btn.btn-default {
     height: 100%;
 }
 
+.advisory-board img {
+    width: 100%;
+    height: 100%;
+}
+
+.advisory-board-nth img {
+    width: 100%;
+    height: 46vh;
+}
+
 .article-list-large .donate-easy-steps {
     margin-top: 76px;
     margin-bottom: 15px
