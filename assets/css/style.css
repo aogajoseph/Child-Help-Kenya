@@ -2506,10 +2506,15 @@ aside ul.archives li span {
     min-height: 255px;
 }
 
+.services i {
+    color: #9c036e;
+    font-size: 8rem;
+}
+
 /*save lives*/
 
 .save-lives {
-    background: url(../img/save-lives.jpg) center 0 no-repeat;
+    background: url("/assets/img/slide-banner-01.png") center 0 no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding: 72px 0 86px;
@@ -2518,6 +2523,17 @@ aside ul.archives li span {
 .save-lives h2 {
     margin-bottom: 20px;
     font-size: 30px;
+    color: #fff;
+}
+
+.save-lives p {
+    color: #fff;
+}
+
+.save-lives .btn {
+    color: #fff;
+    border-color: #fff;
+    font-weight: 600;
 }
 
 .save-lives h2 strong {
