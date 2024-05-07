@@ -2435,6 +2435,19 @@ aside ul.archives li span {
     display: block;
 }
 
+.vision-summary {
+    border: 0;
+    padding: 0;
+    font-size: 24px;
+    font-style: italic;
+    color: #5f5b5b;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: block;
+}
+
 .service-header {
     margin-bottom: 56px;
 }
