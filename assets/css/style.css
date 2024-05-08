@@ -2526,8 +2526,8 @@ aside ul.archives li span {
 
 /*save lives*/
 
-.save-lives {
-    background: url("/assets/img/slide-banner-01.png") center 0 no-repeat;
+.faq-save-lives {
+    background: url("/assets/img/slide-banner-02.png") center 0 no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding: 72px 0 86px;

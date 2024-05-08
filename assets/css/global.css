@@ -786,6 +786,13 @@ blockquote footer:before,
     /*	margin-bottom: 59px;*/
 }
 
+.faqs-breadcrumb-section {
+    background: url("/assets/img/faq.png") center 37.3% no-repeat;
+    background-size: cover;
+    padding: 31px 0 42px;
+    /*	margin-bottom: 59px;*/
+}
+
 .breadcrumb-section h1 {
     font-weight: 700;
     margin-top: 20px;
@@ -1673,7 +1680,7 @@ a.brand img {
 .copyright {
     font-size: 15px;
     color: #b8afad;
-    text-align: left;
+    text-align: le;
     margin-top: 82px;
     background: #2a2928;
     padding: 21px 0;
