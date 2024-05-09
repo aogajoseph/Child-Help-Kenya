@@ -1923,6 +1923,7 @@ main-slider .tp-caption .btn.btn-default {
 
 .article-list-large .article-pic img {
     width: 100%;
+    height: 50%;
 }
 
 .article-list-large.progressbar .detail-description {
@@ -2537,19 +2538,42 @@ aside ul.archives li span {
     padding: 72px 0 86px;
 }
 
+.mission-save-lives {
+    background: url("/assets/img/slide-banner-02.png") center 0 no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 72px 0 86px;
+}
+
 .save-lives h2 {
     margin-bottom: 20px;
     font-size: 30px;
     color: #fff;
 }
 
+.mission-save-lives h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #000000;
+}
+
 .save-lives p {
     color: #fff;
+}
+
+.mission-save-lives p {
+    color: #000000;
 }
 
 .save-lives .btn {
     color: #fff;
     border-color: #fff;
+    font-weight: 600;
+}
+
+.mission-save-lives .btn {
+    color: #000000;
+    border-color: #000000;
     font-weight: 600;
 }
 
@@ -2573,6 +2597,16 @@ aside ul.archives li span {
     min-width: 200px;
     margin-bottom: 10px;
 }
+
+.urgent-cause .btn-default {
+    font-size: 14px;
+    padding: 15px 30px;
+    margin: 50px 9px;
+    min-width: 200px;
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+
 
 .we-help {
     padding-top: 74px;
