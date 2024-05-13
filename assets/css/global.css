@@ -808,6 +808,12 @@ blockquote footer:before,
     padding: 31px 0 42px;
 }
 
+.featured-causes-breadcrumb-section {
+    background: url("/assets/img/featured-causes.jpg") center 37.3% no-repeat;
+    background-size: cover;
+    padding: 31px 0 42px;
+}
+
 .breadcrumb-section h1 {
     font-weight: 700;
     margin-top: 20px;
@@ -863,6 +869,11 @@ blockquote footer:before,
     transform: translateY(80px);
     visibility: visible;
     opacity: 0
+}
+
+.anim-section img {
+    width: 100%;
+    height: 100%;
 }
 
 .anim-section.animate {
