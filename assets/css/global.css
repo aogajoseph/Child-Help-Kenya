@@ -814,6 +814,12 @@ blockquote footer:before,
     padding: 31px 0 42px;
 }
 
+.upcoming-event-breadcrumb-section {
+    background: url("/assets/img/upcoming-event.jpg") center 37.3% no-repeat;
+    background-size: cover;
+    padding: 31px 0 42px;
+}
+
 .breadcrumb-section h1 {
     font-weight: 700;
     margin-top: 20px;
